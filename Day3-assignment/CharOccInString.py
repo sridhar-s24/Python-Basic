@@ -9,7 +9,7 @@ for i in range(cnt):
     print (u, end = ' ')
     u += 1
 if u != 0:
-    print('are the index points where the character appears')
+    print('is/are the index point(s) where the character appears')
 else:
     print('No such character in the sequence')
     
