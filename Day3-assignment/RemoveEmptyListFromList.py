@@ -1,0 +1,5 @@
+li = input('Enter some values: ').split()
+li.append([])
+print(li)
+li.remove([])
+print(li)
